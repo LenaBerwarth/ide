@@ -24,6 +24,7 @@ This nice feature can be added to many other tools.
 
 === Tabs for Windows Explorer
 If you want to have tabs for windows explorer simply install http://en.ejie.me/[Clover]
+//Delete the clover link, it comes with a trojan virus
 
 .Tabs in Windows Explorer
 image::images/tools-tabs-explorer.png["tabs in windows explorer"]
